@@ -1,0 +1,8 @@
+{
+	"editor.rulers": [120],
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"editor.wrappingColumn": 100,
+	"editor.renderWhitespace": true,
+	"files.trimTrailingWhitespace": true
+}
