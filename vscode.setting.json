@@ -4,6 +4,6 @@
 	"editor.insertSpaces": false,
 	"editor.wrappingColumn": 100,
 	"files.trimTrailingWhitespace": true,
-	"typescript.validate.enable": false,
-	"javascript.validate.enable": false
+	"javascript.validate.enable": false,
+	"css.validate": false
 }
